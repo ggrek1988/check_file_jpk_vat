@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<invoice><data>2019-11-26</data><positions><position><id>1</id><name>RO35348599</name><status>NIP zagraniczny, zarejestrowany w systemie VIES</status><code>Z</code><date_w>2019-11-26 15:04:18</date_w><source>VIES</source></position><position><id>2</id><name>9512279613</name><status>Podmiot   o   podanym identyfikatorze   podatkowym   NIP   jest zarejestrowany jako podatnik VAT czynny</status><code>Z</code><date_w>2019-11-26 15:04:18</date_w><source>MF</source></position></positions><validation>0</validation></invoice>
