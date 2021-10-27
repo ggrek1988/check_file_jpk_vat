@@ -1,1 +1,1 @@
-# check_file_jpk_vat
+Program do sprawdzenia poprawnosci wygenerowanego pliku jpk_vat 
