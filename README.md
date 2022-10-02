@@ -1,7 +1,7 @@
 
 # CheckJPK
 Program to validate the generated jpk_vat file
-![screenshot](screen.png)
+[screenshot](screen.png)
 
 ## **Tools**
 Project is created with:
