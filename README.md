@@ -7,6 +7,7 @@ Program to validate the generated jpk_vat file
 Project is created with:
 * Python 2.5
 * PyQt4
+* package Requests
 * XML
 * XSL
 
